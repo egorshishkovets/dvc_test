@@ -1,0 +1,10 @@
+md5: c0f6c3a2df779c05fad49a14ab1d3ad2
+frozen: true
+deps:
+- checksum: '"da39a3ee5e6b4b0d3255bfef95601890afd80709"'
+  size: 54328
+  path: https://osf.io/aupb4/download
+outs:
+- md5: 7850e1c49d6c4e3e03298d2d3c068653
+  size: 54328
+  path: train.csv
